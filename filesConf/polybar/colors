@@ -1,0 +1,18 @@
+
+[colors]
+background = #514A6D
+background-alt = #373B41
+foreground = #C5C8C6
+primary = #F0C674
+secondary = #8ABEB7
+alert = #A54242
+disabled = #707880
+mute = #CD4631
+audio = #81ADC8
+brillo = #F8F2DC
+bateria1 = #CD4631
+bateria2 = #F2DD6E
+bateria3 = #CFF27E
+network1 = #D00000
+network2 = #00A7E1
+sep = #EDDEA4
